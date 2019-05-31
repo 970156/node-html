@@ -15,8 +15,8 @@ var options = {
   method: 'post',
   headers: {
     'Content-Type' : 'application/json',
-    'x-client-id': 'CF5011E3IDVVBPVZYQI26' ,
-    'x-client-secret': 'd3e3d2a27c0d4809b43ffb839bedfcd1913711e4', 
+    'x-client-id': '***************' ,
+    'x-client-secret': '*****************', 
   }
 };
 
